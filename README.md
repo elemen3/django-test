@@ -6,7 +6,6 @@
 
 **Commands:**
 
-
 > python manage.py migrate <br>
 > python manage.py createsuperuser <br>
 > python manage.py startapp playground (_create a new app_)<br>
