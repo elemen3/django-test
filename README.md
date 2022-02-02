@@ -3,6 +3,7 @@
 ## Django Hello World Application.
 
 ---
+<br>
 
 **Commands:**
 
@@ -10,6 +11,8 @@
 > python manage.py createsuperuser <br>
 > python manage.py startapp playground (_create a new app_)<br>
 > python manage.py runserver (_start the server_)
+
+<br>
 
 **Admin**: 
 
