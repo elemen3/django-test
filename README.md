@@ -1,4 +1,4 @@
-# Django Hello World application.
+# Django Hello World Application.
 
 ---
 
